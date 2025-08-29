@@ -5,7 +5,7 @@
 🎯 Data Scientist | Business Intelligence Data Specialist | Problem Solver<br>
 📍 Sunnyvale | 6+ Years of Experience
 
-WData & Risk Analytics leader with 5+ years of experience building scalable decision models and predictive risk scoring solutions to mitigate fraud, optimize credit risk, and enhance customer experience. Adept in Python, SQL, and advanced analytics, with expertise in automating complex processes, driving insights from data, and partnering with cross-functional teams to deliver high-impact solutions that align with business goals.
+Data & Risk Analytics leader with 5+ years of experience building scalable decision models and predictive risk scoring solutions to mitigate fraud, optimize credit risk, and enhance customer experience. Adept in Python, SQL, and advanced analytics, with expertise in automating complex processes, driving insights from data, and partnering with cross-functional teams to deliver high-impact solutions that align with business goals.
 
 I thrive in cross-functional collaborations, ensuring seamless coordination between teams. My strong communication skills and ability to articulate technical concepts effectively make me an asset in any data-driven environment.
 
