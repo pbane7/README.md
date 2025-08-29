@@ -35,62 +35,49 @@ Software Developer @ Pratham Education Foundation, Mumbai (Dec 2015 - Jun 2017)
 
 ## Technical Skills
 
-### Languages & Scripting
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-0066A1?style=flat&logo=sas&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
-### Databases & Big Data
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### Databases
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Teradata](https://img.shields.io/badge/Teradata-EE5C2C?style=flat&logo=teradata&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-1F77B4?style=flat&logo=trino&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-00A3E0?style=flat&logo=snowflake&logoColor=white)
-![Redshift](https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 
-### Business Intelligence & ETL Tools
-![Ab Initio](https://img.shields.io/badge/Ab%20Initio-000000?style=flat)
-![Informatica](https://img.shields.io/badge/Informatica-FF4500?style=flat&logo=informaticacloud&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-FF5025?style=flat&logo=talend&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-00B5E2?style=flat&logo=alteryx&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-FF6347?style=flat&logo=dbt&logoColor=white)
+### Data Science & Machine Learning
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF6F00?style=flat)
+![ETL](https://img.shields.io/badge/ETL-FF8800?style=flat)
+![Statistics](https://img.shields.io/badge/Statistics-1D3557?style=flat)
+![Time Series](https://img.shields.io/badge/Time%20Series-118AB2?style=flat)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-06D6A0?style=flat)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005C96?style=flat)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=#000000)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-### Data Processing & Streaming
-![ETL](https://img.shields.io/badge/ETL-FF8800?style=flat)
-![ELT](https://img.shields.io/badge/ELT-FF4500?style=flat)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017B75?style=flat&logo=apache-airflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![AutoSys](https://img.shields.io/badge/AutoSys-00457C?style=flat&logo=autosys&logoColor=white)
-
-### Visualization and Analytics
-![DBT](https://img.shields.io/badge/DBT-FF6347?style=flat&logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+### Visualization & Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-00B5E2?style=flat&logo=alteryx&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-FF5025?style=flat&logo=talend&logoColor=white)
-
-### Data Modeling Tools
-![ERwin](https://img.shields.io/badge/ERwin-000000?style=flat&logo=erwin&logoColor=white)
-![ER/Studio](https://img.shields.io/badge/ER%2FStudio-FF3621?style=flat&logo=idera&logoColor=white)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-F16A2D?style=flat&logo=lucidchart&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-FF5733?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Superset](https://img.shields.io/badge/Superset-1F77B4?style=flat&logo=apache-superset&logoColor=white)
+![Hue](https://img.shields.io/badge/Hue-005571?style=flat&logo=apachehue&logoColor=white)
 
 ### Agile Technologies
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
