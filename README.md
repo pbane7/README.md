@@ -3,7 +3,7 @@
 # Hi👋, I am Prathamesh Bane
 
 🎯 Data Scientist | Business Intelligence Data Specialist | Problem Solver<br>
-📍 Currently Based in the U.S. | 5+ Years of Experience
+📍 Sunnyvale | 6+ Years of Experience
 
 WData & Risk Analytics leader with 5+ years of experience building scalable decision models and predictive risk scoring solutions to mitigate fraud, optimize credit risk, and enhance customer experience. Adept in Python, SQL, and advanced analytics, with expertise in automating complex processes, driving insights from data, and partnering with cross-functional teams to deliver high-impact solutions that align with business goals.
 
@@ -19,7 +19,6 @@ Bachelor of Engineering in Electronics and Telecommunication, University of Mumb
 Data Scientist @ Credit One Bank, United States (Oct 2021 - Prsent)<br>
 Business Intelligence Data Specialist @ XPO Logistics, Mumbai (May 2018 - Jan 2020)<br>
 Data Analyst @ Kotak Mahindra, Mumbai (September 2016 - Jun 2017)<br>
-Software Developer @ Pratham Education Foundation, Mumbai (Dec 2015 - Jun 2017)
 
 ## Connect with me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathameshbane/)
