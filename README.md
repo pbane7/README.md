@@ -3,7 +3,7 @@
 # Hi👋, I am Prathamesh Bane
 
 🎯 Data Scientist | Business Intelligence Data Specialist | Problem Solver<br>
-📍 Sunnyvale | 6+ Years of Experience
+📍 Currently Based in the U.S. | 6+ Years of Experience
 
 Data & Risk Analytics leader with 5+ years of experience building scalable decision models and predictive risk scoring solutions to mitigate fraud, optimize credit risk, and enhance customer experience. Adept in Python, SQL, and advanced analytics, with expertise in automating complex processes, driving insights from data, and partnering with cross-functional teams to deliver high-impact solutions that align with business goals.
 
