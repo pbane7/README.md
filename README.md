@@ -2,27 +2,27 @@
 
 # Hi👋, I am Prathamesh Bane
 
-🎯 Data Engineer | Business Intelligence Expert | Problem Solver<br>
-📍 Currently Based in the U.S. | 7+ Years of Experience
+🎯 Data Scientist | Business Intelligence Data Specialist | Problem Solver<br>
+📍 Currently Based in the U.S. | 5+ Years of Experience
 
-With a strong foundation in data engineering, analytics, and business intelligence, I specialize in transforming raw data into meaningful insights. Having worked across various industries, I bring expertise in designing scalable data solutions, optimizing ETL pipelines, and enabling data-driven decision-making.
+WData & Risk Analytics leader with 5+ years of experience building scalable decision models and predictive risk scoring solutions to mitigate fraud, optimize credit risk, and enhance customer experience. Adept in Python, SQL, and advanced analytics, with expertise in automating complex processes, driving insights from data, and partnering with cross-functional teams to deliver high-impact solutions that align with business goals.
 
 I thrive in cross-functional collaborations, ensuring seamless coordination between teams. My strong communication skills and ability to articulate technical concepts effectively make me an asset in any data-driven environment.
 
 ## Background
 
-Master of Science in Information Systems, Northeastern University : Boston (Sep 2023 - Aug 2025)<br>
-Bachelor of Engineering in Electronics Engineering, University of Mumbai (Aug 2012 - June 2015)
+Master of Science in Data Science, Stevens Institute of Technology : New Jersey (Jan 2020 - Aug 2021)<br>
+Bachelor of Engineering in Electronics and Telecommunication, University of Mumbai (June 2012 - May 2015)
 
 ## Work Experience
 
-Business Intelligence Engineer Co-op @ Amazon Robotics, Boston (Jul 2024 - Dec 2024)<br>
-Data Engineer @ J.P. Morgan Chase & Co., Mumbai (Jul 2021 - Aug 2023)<br>
-Data Quality Engineer @ Transunion CIBIL, Mumbai (Mar 2019 - Jul 2021)<br>
-Data Engineer @ Accenture, Mumbai (Apr 2016 - Jan 2019)
+Data Scientist @ Credit One Bank, United States (Oct 2021 - Prsent)<br>
+Business Intelligence Data Specialist @ XPO Logistics, Mumbai (May 2018 - Jan 2020)<br>
+Data Analyst @ Kotak Mahindra, Mumbai (September 2016 - Jun 2017)<br>
+Software Developer @ Pratham Education Foundation, Mumbai (Dec 2015 - Jun 2017)
 
 ## Connect with me on
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishitashewale/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathameshbane/)
 
 ## Relevant Project Repositories
 
